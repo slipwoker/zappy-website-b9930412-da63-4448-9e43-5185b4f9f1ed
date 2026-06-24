@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://buynow-b9930412.zappy5.app
+https://example.com
 גלו חנות יד שנייה עם פריטים ייחודיים במחירים ללא תחרות. ריהוט, ביגוד ועוד מחכים לכם. הצטרפו למהפכת הצריכה החכמה עוד היום!
 
 ### למה יד שנייה
-https://buynow-b9930412.zappy5.app/why-second-hand
+https://example.com/why-second-hand
 חושבים שיד שנייה זה רק חיסכון? תחשבו שוב! גלו איך אתם תורמים לסביבה, מוצאים פריטים נדירים ומשדרגים את הסגנון. היכנסו לעולם חדש.
 
 ### הסיפור שלנו
-https://buynow-b9930412.zappy5.app/about
+https://example.com/about
 מחלום קטן לחנות משגשגת – הכירו את הסיפור של Buynow, המקום שבו כל פריט מקבל הזדמנות שנייה. בואו להיות חלק מהקהילה שלנו.
 
 ### צור קשר
-https://buynow-b9930412.zappy5.app/contact
+https://example.com/contact
 רוצים למכור, לתרום או סתם לשאול על פריט מיוחד? צוות Buynow כאן בשבילכם. מלאו את הטופס וקבלו מענה מהיר – נתראה בקרוב!
 
 ### Products
-https://buynow-b9930412.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Buynow
 
 ### Cart
-https://buynow-b9930412.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://buynow-b9930412.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://buynow-b9930412.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://buynow-b9930412.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://buynow-b9930412.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://buynow-b9930412.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Buynow
 
 ### Category
-https://buynow-b9930412.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Buynow
 
 ### תודה שפניתם אלינו
-https://buynow-b9930412.zappy5.app/thank-you
+https://example.com/thank-you
 Buynow - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://buynow-b9930412.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://buynow-b9930412.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://buynow-b9930412.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Second-hand / Thrift Store
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://buynow-b9930412.zappy5.app/sitemap.xml
-- Robots: https://buynow-b9930412.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://buynow-b9930412.zappy5.app/llms-full.txt
-- Products (JSON): https://buynow-b9930412.zappy5.app/products.json
-- Products (Google Merchant RSS): https://buynow-b9930412.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
