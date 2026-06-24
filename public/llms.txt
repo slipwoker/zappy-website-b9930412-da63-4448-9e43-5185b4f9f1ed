@@ -1,0 +1,107 @@
+# Buynow — Generative Engine Optimization Map
+
+> A second-hand / thrift store that sells pre-owned items. The store focuses on giving used goods a second life, appealing to budget-conscious shoppers and sustainability-minded consumers who enjoy finding unique or vintage items at affordable prices.
+
+---
+
+## Pages
+
+### בית
+https://buynow-b9930412.zappy5.app
+גלו חנות יד שנייה עם פריטים ייחודיים במחירים ללא תחרות. ריהוט, ביגוד ועוד מחכים לכם. הצטרפו למהפכת הצריכה החכמה עוד היום!
+
+### למה יד שנייה
+https://buynow-b9930412.zappy5.app/why-second-hand
+חושבים שיד שנייה זה רק חיסכון? תחשבו שוב! גלו איך אתם תורמים לסביבה, מוצאים פריטים נדירים ומשדרגים את הסגנון. היכנסו לעולם חדש.
+
+### הסיפור שלנו
+https://buynow-b9930412.zappy5.app/about
+מחלום קטן לחנות משגשגת – הכירו את הסיפור של Buynow, המקום שבו כל פריט מקבל הזדמנות שנייה. בואו להיות חלק מהקהילה שלנו.
+
+### צור קשר
+https://buynow-b9930412.zappy5.app/contact
+רוצים למכור, לתרום או סתם לשאול על פריט מיוחד? צוות Buynow כאן בשבילכם. מלאו את הטופס וקבלו מענה מהיר – נתראה בקרוב!
+
+### Products
+https://buynow-b9930412.zappy5.app/products
+המוצרים שלנו - Buynow
+
+### Cart
+https://buynow-b9930412.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://buynow-b9930412.zappy5.app/checkout
+תשלום
+
+### Login
+https://buynow-b9930412.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://buynow-b9930412.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://buynow-b9930412.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://buynow-b9930412.zappy5.app/product/:slug
+פרטי המוצר - Buynow
+
+### Category
+https://buynow-b9930412.zappy5.app/category/:slug
+מוצרים - Buynow
+
+### תודה שפניתם אלינו
+https://buynow-b9930412.zappy5.app/thank-you
+Buynow - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://buynow-b9930412.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://buynow-b9930412.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://buynow-b9930412.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Buynow
+A second-hand / thrift store that sells pre-owned items. The store focuses on giving used goods a second life, appealing to budget-conscious shoppers and sustainability-minded consumers who enjoy finding unique or vintage items at affordable prices.
+
+## Services/Products
+- מכירת פריטי יד שניה
+
+## Target Audience
+- קונים ידידותיים לסביבה
+- סטודנטים בעלי מודעות תקציבית
+- אספני וינטג'
+
+## Industry
+Second-hand / Thrift Store
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://buynow-b9930412.zappy5.app/sitemap.xml
+- Robots: https://buynow-b9930412.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://buynow-b9930412.zappy5.app/llms-full.txt
+- Products (JSON): https://buynow-b9930412.zappy5.app/products.json
+- Products (Google Merchant RSS): https://buynow-b9930412.zappy5.app/product-feed.xml
